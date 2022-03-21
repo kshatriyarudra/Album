@@ -18,3 +18,16 @@
    b. Slide list- All the slide should be present here like https://github.com/kshatriyarudra/Album/blob/main/Slide%20list.png .
    
    c. Slide view- Details of slide and view of slide should be present in this section like https://github.com/kshatriyarudra/Album/blob/main/Slide%20view.png .
+   
+6. After html let's discuss about javascript:
+
+   a. We have to select all the selector by querySelector then after initialise variable's, Adding eventlistener to the required query selector.
+   
+   b. After the above steps, use functions for add album, delete album, add slide, edit slide etc. We need to store our data to the local storage and retrieve data           when the program is reloaded.
+7. After javascript let's discuss about css:
+
+   a. Used of css was to build the page in attractive by using: i. font-weight ii. border-radius iii. padding iv. margin v. transform vi. display vii. background-           color viii. text-decoration ix. border x. cursor: pointer etc.
+   
+   b. For use of tags, we have to take care so that right things were being selected like as '#' was used for id, '.' was used for class etc.
+  
+8. Combination of all the points was good for the output and for more information please go through the codes.
